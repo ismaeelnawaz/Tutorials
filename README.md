@@ -3,4 +3,6 @@ A very good start of Machine Learning and Deep Learning basic tutorials. This re
 
 * Python Quick Practice
   * It contains notebooks to quick start and understand python structures 
+* Machine Learning
+  * It contains notebooks(well commented) of basic models/classifers on toy datasets.  
   
